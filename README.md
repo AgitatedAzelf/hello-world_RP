@@ -1,2 +1,2 @@
 # hello-world_RP
-This repository is for practicing the GitHub Flow.
+My name is Ryan Parker and I like to code and play video games.
